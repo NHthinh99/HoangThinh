@@ -1,0 +1,12 @@
+9	10
+6	10
+10	5
+7	10
+10	7
+5	10
+10	7
+8	10
+10	5	May thang
+5	10	nguoi thang
+10		8			May thang
+8		10			Nguoi thang
